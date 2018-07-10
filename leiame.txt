@@ -1,0 +1,17 @@
+Gustavo felipe Santos de Gusmão Tenório
+
+gugaefelipe@gmail.com
+
+
+1-Deve ser feito o download do servidor web, usaremos o xampp q pode ser encontrado no site
+https://www.apachefriends.org/pt_br.
+
+2-feito o download, devemos agora instalar o app.
+
+3-na instalaçao realizar o que for necessario e nao alterar a pasta padrao que deve ser "C:\xampp"
+
+4- apos instalado devemos abrir o explorer e salvar a pasta do nosso projeto em "C:\xampp\htdocs\"
+
+5- agora podemos inicializar nosso Xamppcontrol.exe, feito isso é so iniciar o serviço apache no botao "start"do mesmo.
+
+6- abra o navegador e digite "localhost/nome_do_projeto".
